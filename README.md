@@ -4,5 +4,3 @@
 
 <a href="https://miguell-j.github.io/jogo-da-velha/">
 Demo
-
-- Jogo da velha usando html, css e javascript
